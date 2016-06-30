@@ -1,6 +1,6 @@
 # About this repository
 
-This is Lin's repo for following [Printing Code](http://printingcode.runemadsen.com/) class. This will also document my learning progress of [Rune.js](http://runemadsen.github.io/rune.js/) and exploration of the idea of [design systems](http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/). All-around fun stuff! Thanks to [Rune Madsen](https://runemadsen.com/) for providing access to his class website online!
+This is Lin's repo for following [Printing Code](http://printingcode.runemadsen.com/) class. This will also document my learning progress of [Rune.js](http://runemadsen.github.io/rune.js/) and exploration into the idea of [design systems](http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/). All-around fun stuff! Thanks to [Rune Madsen](https://runemadsen.com/) for providing access to his class website online!
 
 ## Running the projects
 
